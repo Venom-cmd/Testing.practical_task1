@@ -1,0 +1,5 @@
+﻿  Cursovaya.cpp
+Cursovaya.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Init@8 в функции _main.
+Cursovaya.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Finalize@0 в функции _main.
+C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64\msmpi.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\Users\ilyak\source\repos\Cursovaya\Debug\Cursovaya.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
