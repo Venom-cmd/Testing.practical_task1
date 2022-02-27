@@ -1,3 +1,3 @@
 ﻿  Cursovaya.cpp
-C:\Users\ilyak\source\repos\Cursovaya\Cursovaya\Cursovaya.cpp(49,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Cursovaya.vcxproj -> C:\Users\ilyak\source\repos\Cursovaya\x64\Debug\Cursovaya.exe
+F:\Testing.practical_task1\Cursovaya\Cursovaya\Cursovaya.cpp(49,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Cursovaya.vcxproj -> F:\Testing.practical_task1\Cursovaya\x64\Debug\Cursovaya.exe

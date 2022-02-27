@@ -92,8 +92,7 @@ int main(int argc, char** argv) {
         cout << endl;   
     }
     double endTime = omp_get_wtime();
-    double time = endTime - startTime;
-    cout << time;
+    double time = endTime - startTime; 
     return 0;
 }
 
